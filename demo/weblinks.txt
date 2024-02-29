@@ -1,0 +1,9 @@
+https://gist.github.com/pdashford/2e4bcd4fc2343e2fd03efe4da17f577d
+https://pypi.org/project/GitPython/
+GitPython 3.1.42
+https://gitpython.readthedocs.io/en/stable/tutorial.html#examining-references
+
+
+https://pypi.org/project/PyGithub/
+PyGithub==2.2.0
+https://pygithub.readthedocs.io/en/stable/introduction.html
