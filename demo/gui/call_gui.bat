@@ -15,7 +15,7 @@ if defined pp_path (
 	echo pp_path = %pp_path%
   
 	call "%pp_path%\venv\Scripts\activate"
-	"%pp_path%\venv\Scripts\streamlit.exe" run "%start_path%\Demo_Streamlit.py"
+	"%pp_path%\venv\Scripts\streamlit.exe" run "%start_path%\gui.py"
 	call "%pp_path%\venv\Scripts\deactivate"	
 ) else (
     echo %KEY_NAME%\%VALUE_NAME% not found
